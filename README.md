@@ -3,6 +3,6 @@
 
 ## Calificaciones
 
-- **Práctica 0:** *NaN*
-- **Práctica 1:** *NaN*
-- **Práctica 2:** *NaN*
+- **Práctica 0:** *9,8*
+- **Práctica 1:** *7*
+- **Práctica 2:** *10*
