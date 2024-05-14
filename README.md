@@ -3,6 +3,6 @@
 
 ## Calificaciones
 
-- **Práctica 0:** *9,8*
-- **Práctica 1:** *7*
-- **Práctica 2:** *10*
+- **Práctica 0:** *9,8/10*
+- **Práctica 1:** *7/10*
+- **Práctica 2:** *10/10*
