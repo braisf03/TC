@@ -1,5 +1,5 @@
 (* Práctica 2 *)
-#load "tald.cma";;
+#load "talf.cma";;
 open Conj;;
 open Auto;;
 open Ergo;;
